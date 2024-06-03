@@ -1,0 +1,14 @@
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\task1_03062024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\task1_03062024.AssemblyInfoInputs.cache
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\task1_03062024.AssemblyInfo.cs
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\task1_03062024.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\source\repos\task1_03062024\bin\Debug\net8.0\task1_03062024.exe
+C:\Users\FA507XV\source\repos\task1_03062024\bin\Debug\net8.0\task1_03062024.deps.json
+C:\Users\FA507XV\source\repos\task1_03062024\bin\Debug\net8.0\task1_03062024.runtimeconfig.json
+C:\Users\FA507XV\source\repos\task1_03062024\bin\Debug\net8.0\task1_03062024.dll
+C:\Users\FA507XV\source\repos\task1_03062024\bin\Debug\net8.0\task1_03062024.pdb
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\task1_03062024.dll
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\refint\task1_03062024.dll
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\task1_03062024.pdb
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\task1_03062024.genruntimeconfig.cache
+C:\Users\FA507XV\source\repos\task1_03062024\obj\Debug\net8.0\ref\task1_03062024.dll
